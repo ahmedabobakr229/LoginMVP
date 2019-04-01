@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">LoginMVP</string>
+
+    <!--facebook configration .. -->
+    <string name="facebook_app_id" translatable="false">2134103909998587</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb2134103909998587</string>
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+
+    <string name="email">email</string>
+    <string name="password">pass</string>
+    <string name="login">login</string>
+    <string name="Register">Register</string>
+    <string name="empty_email">you must write your email</string>
+    <string name="empty_Password">you must enter the password</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_number">Mobile number must be 11 digit</string>
+    <string name="weak_password">this password is so weak</string>
+    <string name="name">name</string>
+    <string name="New">New Account</string>
+    <string name="forget_password">Forget Password ??</string>
+    <string name="facebookLogin">Facebook</string>
+    <string name="googleLogin">Google</string>
+    <string name="skip">Skip</string>
+    <string name="or" translatable="false">Or</string>
+
+    <string name="username">UserName</string>
+    <string name="mobile">Mobile number</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="region">Region</string>
+    <string name="country">Country</string>
+    <string name="conf_pass">confirm Password</string>
+
+    <string name="suc_reg">Successfully Registered</string>
+    <string name="suc_log">Login</string>
+</resources>

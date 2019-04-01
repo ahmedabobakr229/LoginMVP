@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">LoginMVP</string>
+    <string name="email">البريد الاليكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">دخول</string>
+    <string name="empty_email">يجب ادخال البريد الاليكتروني</string>
+    <string name="empty_Password">يجب ادخال كلمة السر</string>
+    <string name="weak_password">كلمة السر ضعيفة</string>
+    <string name="invalid_email">بريد اليكتروني غير صحيح</string>
+    <string name="Register">تسجيل</string>
+    <string name="name">الاسم</string>
+    <string name="New">حساب جديد</string>
+    <string name="forget_password">نسيت كلمة السر ؟</string>
+    <string name="facebookLogin">فيسبوك</string>
+    <string name="googleLogin">جوجل</string>
+    <string name="skip">تخطي</string>
+    <string name="or">أو</string>
+    <string name="invalid_password">كلمة المرور غير صحيحة</string>
+    <string name="invalid_number">رقم الهاتف يجب أن يكون 11 رقم</string>
+
+    <string name="username">اسم المُستخدم</string>
+    <string name="mobile">رقم الهاتف</string>
+    <string name="address">العنوان</string>
+    <string name="city">المدينة</string>
+    <string name="region">المنطقة</string>
+    <string name="country">الدولة</string>
+    <string name="conf_pass">تأكيد كلمة المرور</string>
+    <string name="suc_reg">تم التسجيل بنجاح</string>
+    <string name="suc_log">دخول</string>
+
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+</resources>

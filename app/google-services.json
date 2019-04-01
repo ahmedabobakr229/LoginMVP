@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625530526715",
+    "firebase_url": "https://loginmvp-234113.firebaseio.com",
+    "project_id": "loginmvp-234113",
+    "storage_bucket": "loginmvp-234113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625530526715:android:78d946a06dae847b",
+        "android_client_info": {
+          "package_name": "com.example.loginmvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625530526715-73uio1gqbn61mup9gshvj2mqil31trbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginmvp",
+            "certificate_hash": "9dbaa702983ddc9fe19fcaf2808795281114cf7b"
+          }
+        },
+        {
+          "client_id": "625530526715-7og7ameavsrjl0s2bb1j49tgeipnsgqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVSeXCqh8pB3K8tfkuXNw6K7K_ft7Cws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625530526715-7og7ameavsrjl0s2bb1j49tgeipnsgqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
